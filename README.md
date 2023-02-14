@@ -4,4 +4,4 @@ Deprem bölgesi olan ülkemizde depremlerin anlık takibi için geliştirmiş ol
 
 
 ### Bazı Görseller
-![EarthQuake App](https://github.com/ismaildrcn/HealthApp/blob/master/images/EarthQuakeApp.png)
+![EarthQuake App](https://github.com/ismaildrcn/EarthQuakeApp/blob/master/images/EarthQuakeApp.png)
